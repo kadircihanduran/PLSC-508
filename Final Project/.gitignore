@@ -1,0 +1,40 @@
+# LaTeX build files: keep the output PDF, ignore the rest
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.dvi
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.cut
+*-blx.bib
+*.tex
+# R and macOS leftovers
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store
+
+# Package library built by compat/install_authors_versions.sh (large; rebuilt by the script)
+compat/rlib/
