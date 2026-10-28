@@ -1,0 +1,7 @@
+Package: trust
+Version: 0.1-8
+Title: Trust Region Optimization (local re-implementation)
+Description: Minimal re-implementation of Geyer's trust() for environments without CRAN access.
+Author: local
+Maintainer: local <local@example.com>
+License: MIT
