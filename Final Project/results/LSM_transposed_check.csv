@@ -1,0 +1,12 @@
+"variable","published","your_original_fit","your_transposed_fit","transposed_2.5","transposed_97.5"
+"Intercept/Edges",0.95,0.93,-1.99,-2.88,-1.1
+"Business vs. NGO",-1.37,-1.37,-1.42,-2.59,-0.36
+"Opposition/alliance",0,0,1.46,0.99,1.95
+"Preference dissimilarity",-1.76,-1.76,-0.99,-1.97,-0.02
+"Joint forum participation",1.52,1.51,1.19,0.45,1.9
+"Influence attribution",0.08,0.08,1.6,1.09,2.14
+"Alter's influence indegree",0.01,0.01,0.12,0.08,0.17
+"Influence absolute diff.",0.04,0.04,-0.06,-0.11,-0.01
+"Alter = Government actor",-0.46,-0.46,0.7,0.07,1.35
+"Ego = Environmental NGO",-0.6,-0.6,1.94,1.06,2.87
+"Same actor type",1.17,1.18,1.44,0.84,2.05
